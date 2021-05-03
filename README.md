@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="230">
 
-!(https://github-readme-stats.vercel.app/api?username=imatomster&show_icons=true)
+!()
+<a href="https://github.com/imatomster">
+  <img src="https://github-readme-stats.vercel.app/api?username=imatomster&show_icons=true" />
+</a>
