@@ -1,5 +1,3 @@
-### Heyo! I'm Tommy Hang 👋
-
 <!--
 **imatomster/imatomster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3> Heyo! My name's ✨ Tommy ✨ </h3>
+# Heyo! My name's ✨ Tommy ✨
 
 ---
 
-<img align='right' src="<img align='right' src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="230">" width="230">
+<img align='right' src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="230">
 
 !(https://github-readme-stats.vercel.app/api?username=imatomster&show_icons=true)
