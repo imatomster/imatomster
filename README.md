@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ---
 
-<img align='right' src="<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">" width="230">
+<img align='right' src="<img align='right' src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="230">" width="230">
 
 !(https://github-readme-stats.vercel.app/api?username=imatomster&show_icons=true)
