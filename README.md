@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 
 <h1> Heyo! My name's ✨ Tommy ✨ </h1>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <img src="https://img.shields.io/youtube/views/dQw4w9WgXcQ?label=Best%20Video&style=plastic" />
+</a>
 ![YouTube Video Views](https://img.shields.io/youtube/views/dQw4w9WgXcQ?label=Best%20Video&style=plastic)
 
 ---
