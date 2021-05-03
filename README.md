@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1> Heyo! My name's ✨ Tommy ✨ </h1>
-![Free Stuff](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Free Stuff](https://img.shields.io/youtube/views/dQw4w9WgXcQ?style=social)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
 
