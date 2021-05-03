@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1> Heyo! My name's ✨ Tommy ✨ </h1>
+# Heyo! My name's ✨ Tommy ✨ 
 [![Free Stuff](https://img.shields.io/youtube/views/dQw4w9WgXcQ?style=social)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
