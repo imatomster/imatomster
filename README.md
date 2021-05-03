@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-######## Heyo! My name's ✨ Tommy ✨
+<h1> Heyo! My name's ✨ Tommy ✨ </h1>
 
 ---
 
