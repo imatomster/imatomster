@@ -26,10 +26,6 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wix.com%2Fblog%2F2020%2F03
 
 <img align='right' src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="230">
 
-<a href="https://github.com/imatomster">
-  <img src="https://github-readme-stats.vercel.app/api?username=imatomster&show_icons=true" />
-</a>
-
 <h3> I don't realy know what I'm doing but cool thing below? </h3>
 
 ```javascript
